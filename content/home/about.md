@@ -21,7 +21,7 @@ weight = 1
   interests = [
   "Big Data Analytics",
   "Artificial Intelligence",
-  "Computational Linguistics",
+  "Medical technologies",
   ]
  
 +++

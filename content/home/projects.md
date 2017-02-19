@@ -5,12 +5,12 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Projects"
+title = "Portfolio <br/>Showcase"
 subtitle = ""
 widget = "projects"
 
 # Order that this section will appear in.
-weight = 50
+weight = 2
 
 # View.
 # Customize how projects are displayed.

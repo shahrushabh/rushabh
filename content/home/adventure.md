@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Resume"
+title = "Highlights"
 subtitle = ""
 widget = "custom"
 
@@ -15,11 +15,11 @@ weight = 3
 +++
 <ul class="timeline ">
     <li>
-      <div class="timeline-badge" style="background-color: #CD6155"><i class="glyphicon glyphicon-check"></i></div>
+      <div class="timeline-badge" style="background-color: #EC7063"><i class="glyphicon glyphicon-tasks"></i></div>
       <div class="timeline-panel">
-        <div class="timeline-heading" style="background-color: #CD6155">
+        <div class="timeline-heading" style="background-color: #EC7063">
           <h4 class="timeline-title">Web developer
-            <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Summer 2015 -</small></p>
+            <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Spring '16 - Current</small></p>
           </h4>
         </div>
         <div class="timeline-body">
@@ -30,8 +30,10 @@ weight = 3
     <li class="timeline-inverted">
       <div class="timeline-badge success"><i class="glyphicon glyphicon-star"></i></div>
       <div class="timeline-panel">
-        <div class="timeline-heading" style="background-color:green">
-          <h4 class="timeline-title">Deans List Iowa State University</h4>
+        <div class="timeline-heading" style="background-color: #52BE80">
+          <h4 class="timeline-title">Deans List Iowa State University
+            <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '16</small></p>
+          </h4>
         </div>
         <div class="timeline-body">
           <p>Deans List Honor</p>
@@ -39,10 +41,12 @@ weight = 3
       </div>
     </li>
     <li>
-      <div class="timeline-badge danger"><i class="glyphicon glyphicon-credit-card"></i></div>
+      <div class="timeline-badge info"><i class="glyphicon glyphicon-user"></i></div>
       <div class="timeline-panel">
         <div class="timeline-heading">
-          <h4 class="timeline-title">Project Leader</h4>
+          <h4 class="timeline-title">Project Leader
+            <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '16 - Spring '17</small></p>
+          </h4>
         </div>
         <div class="timeline-body">
           <p>Design, Implement and manage solution for client.</p>
@@ -53,14 +57,16 @@ weight = 3
         <div class="timeline-badge warning"><i class="glyphicon glyphicon-education"></i></div>
       <div class="timeline-panel">
         <div class="timeline-heading" style="background-color: #F5B041">
-          <h4 class="timeline-title">Computer Engineering</h4>
+          <h4 class="timeline-title">Computer Engineering
+            <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '13 - Current</small></p>
+          </h4>
         </div>
         <div class="timeline-body">
           <p>Started attending college at Iowa State University.</p>
         </div>
       </div>
     </li>
-    <li>
+    <!-- <li>
       <div class="timeline-badge info"><i class="glyphicon glyphicon-floppy-disk"></i></div>
       <div class="timeline-panel">
         <div class="timeline-heading">
@@ -83,5 +89,5 @@ weight = 3
           </div>
         </div>
       </div>
-    </li>
+    </li> -->
 </ul>

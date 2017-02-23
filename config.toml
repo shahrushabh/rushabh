@@ -155,14 +155,15 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Academics"
-  url = "#academics"
+  name = "Resume"
+  url = "#resume"
   weight = 3
 
 [[menu.main]]
-  name = "Resume"
-  url = "#resume"
+  name = "Academics"
+  url = "#academics"
   weight = 4
+
 
 # [[menu.main]]
 #   name = "Contact"

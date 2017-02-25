@@ -57,6 +57,26 @@ caption = ""
         <li> Encourage code review and pull requests within the team. </li>
     </ul>
     </p>
+    <hr/>
+    <h4 class="list-group-item-heading"> Mars Rover: Embedded Systems </h4>
+    <p class=list-group-item-text>
+    <ul>
+        <li> Tools utilized: C, Atmel-Studio, Matlab, PuTTY terminal, and iRobot with Micro-controller ATMega128 </li>
+        <li> Perform accurate sensor calibration, used to determine obstacles standing in the way of robot  </li>
+        <li> Implement graphical interface with real-time data using Matlab that utilizes serial port communication  </li>
+        <li> Transmit data with Serial Communication Interface over Bluetooth </li>
+    </ul>
+    </p>
+    <hr/>
+    <h4 class="list-group-item-heading"> Attendance: Android Platform </h4>
+    <p class=list-group-item-text>
+    <ul>
+        <li> Tools utilized: Android SDK, Java, Google Endpoints, Maps, Git </li>
+        <li> Location based attendance tracking application </li>
+        <li> Develop Endpoints API for this application for cross platform </li>
+        <li> Provide app preferences for GPS usage </li>
+    </ul>
+    </p>
     </div>
 </div>
 

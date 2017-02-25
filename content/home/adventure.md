@@ -19,11 +19,11 @@ weight = 3
       <div class="timeline-panel">
         <div class="timeline-heading" style="background-color: #EC7063">
           <h4 class="timeline-title">Web developer
-            <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Spring '16 - Current</small></p>
+            <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Spring '16 - Present</small></p>
           </h4>
         </div>
         <div class="timeline-body">
-          <p>Backend web developer at Iowa State University</p>
+          <p>Web application developer at Iowa State University</p>
         </div>
       </div>
     </li>
@@ -49,20 +49,20 @@ weight = 3
           </h4>
         </div>
         <div class="timeline-body">
-          <p>Design, Implement and manage solution for client.</p>
+          <p>Design and implement software application for client.</p>
         </div>
       </div>
     </li>
     <li class="timeline-inverted">
-        <div class="timeline-badge warning"><i class="glyphicon glyphicon-education"></i></div>
+        <div class="timeline-badge warning"><i class="glyphicon glyphicon-map-marker"></i></div>
       <div class="timeline-panel">
         <div class="timeline-heading" style="background-color: #F5B041">
           <h4 class="timeline-title">Computer Engineering
-            <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '13 - Current</small></p>
+            <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '13 - Present</small></p>
           </h4>
         </div>
         <div class="timeline-body">
-          <p>Started attending college at Iowa State University.</p>
+          <p>Begin adventure at Iowa State University.</p>
         </div>
       </div>
     </li>

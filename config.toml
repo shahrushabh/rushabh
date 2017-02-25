@@ -164,6 +164,10 @@ defaultContentLanguageInSubdir = false
   url = "#academics"
   weight = 4
 
+[[menu.main]]
+  name = "Resume"
+  url = "/resume"
+  weight = 5
 
 # [[menu.main]]
 #   name = "Contact"

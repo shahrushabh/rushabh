@@ -31,12 +31,12 @@ weight = 3
       <div class="timeline-badge success"><i class="glyphicon glyphicon-star"></i></div>
       <div class="timeline-panel">
         <div class="timeline-heading" style="background-color: #52BE80">
-          <h4 class="timeline-title">Deans List Iowa State University
+          <h4 class="timeline-title">Deans List Honor
             <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '16</small></p>
           </h4>
         </div>
         <div class="timeline-body">
-          <p>Deans List Honor</p>
+          <p>Deans List Honor at Iowa State University</p>
         </div>
       </div>
     </li>

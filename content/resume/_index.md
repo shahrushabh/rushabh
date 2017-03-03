@@ -111,7 +111,7 @@ caption = ""
 
 <script>
     $(function(){
-        $('#education_and_skills').collapse('show');
+        $('#summary').collapse('show');
         $('#toggle').click(function(){
             if($('#toggle').html() == 'COLLAPSE ALL'){
                 $('#toggle').html('EXPAND ALL');

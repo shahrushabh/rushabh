@@ -15,7 +15,7 @@ weight = 3
 +++
 <ul class="timeline ">
     <li>
-      <div class="timeline-badge" style="background-color: #EC7063"><i class="glyphicon glyphicon-tasks"></i></div>
+      <div class="timeline-badge" style="background-color: #EC7063"><i class="fa fa-server" aria-hidden="true"></i></div>
       <div class="timeline-panel">
         <div class="timeline-heading" style="background-color: #EC7063">
           <h4 class="timeline-title">Web developer
@@ -28,7 +28,7 @@ weight = 3
       </div>
     </li>
     <li class="timeline-inverted">
-      <div class="timeline-badge success"><i class="glyphicon glyphicon-star"></i></div>
+      <div class="timeline-badge success"><i class="fa fa-trophy" aria-hidden="true"></i></div>
       <div class="timeline-panel">
         <div class="timeline-heading" style="background-color: #52BE80">
           <h4 class="timeline-title">Deans List Honor
@@ -41,7 +41,7 @@ weight = 3
       </div>
     </li>
     <li>
-      <div class="timeline-badge info"><i class="glyphicon glyphicon-user"></i></div>
+      <div class="timeline-badge info"><i class="fa fa-user-o" aria-hidden="true"></i></div>
       <div class="timeline-panel">
         <div class="timeline-heading">
           <h4 class="timeline-title">Project Leader
@@ -54,7 +54,7 @@ weight = 3
       </div>
     </li>
     <li class="timeline-inverted">
-        <div class="timeline-badge warning"><i class="glyphicon glyphicon-map-marker"></i></div>
+        <div class="timeline-badge warning"><i class="fa fa-university" aria-hidden="true"></i></div>
       <div class="timeline-panel">
         <div class="timeline-heading" style="background-color: #F5B041">
           <h4 class="timeline-title">Computer Engineering

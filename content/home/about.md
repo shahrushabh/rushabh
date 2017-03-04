@@ -26,6 +26,21 @@ weight = 1
  
 +++
 
-# Biography
+<div id="biography">
+    <h1>Biography</h1>
+    I am a Computer Engineering student at Iowa State University graduating in Spring of 2017. I have had experience in back-end web development with a demonstrated history of working in the higher education industry. Skilled in LAMP stack, Git, Github, and other various software development technologies. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Iowa State University.
+</div>
 
-I am a Computer Engineering student at Iowa State University with planned graduation in Spring 2017. I have had experience in back-end web development with a demonstrated history of working in the higher education industry. Skilled in LAMP stack, Git, Github, and other various software development technologies. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Iowa State University.
+<script>
+$(document).ready(function(){
+    if($( "#biography" ).isInViewport().length > 0){
+        $( "#biography" ).addClass( "animated fadeInDown" );
+    }
+    if($( "#interests" ).isInViewport().length > 0){
+        $( "#interests" ).addClass( "animated fadeInUp" );
+    }
+    if($( "#grad" ).isInViewport().length > 0){
+        $( "#grad" ).addClass( "animated fadeInUp" );
+    }
+});
+</script>

@@ -16,7 +16,7 @@ weight = 3
 <ul class="timeline ">
     <li>
       <div class="timeline-badge" style="background-color: #EC7063"><i class="fa fa-server" aria-hidden="true"></i></div>
-      <div class="timeline-panel">
+      <div class="timeline-panel" id="web_dev">
         <div class="timeline-heading" style="background-color: #EC7063">
           <h4 class="timeline-title">Web developer
             <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Spring '16 - Present</small></p>
@@ -29,7 +29,7 @@ weight = 3
     </li>
     <li class="timeline-inverted">
       <div class="timeline-badge success"><i class="fa fa-trophy" aria-hidden="true"></i></div>
-      <div class="timeline-panel">
+      <div class="timeline-panel" id="honor">
         <div class="timeline-heading" style="background-color: #52BE80">
           <h4 class="timeline-title">Deans List Honor
             <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '16</small></p>
@@ -42,7 +42,7 @@ weight = 3
     </li>
     <li>
       <div class="timeline-badge info"><i class="fa fa-user-o" aria-hidden="true"></i></div>
-      <div class="timeline-panel">
+      <div class="timeline-panel"  id="leader">
         <div class="timeline-heading">
           <h4 class="timeline-title">Project Leader
             <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '16 - Spring '17</small></p>
@@ -55,7 +55,7 @@ weight = 3
     </li>
     <li class="timeline-inverted">
         <div class="timeline-badge warning"><i class="fa fa-university" aria-hidden="true"></i></div>
-      <div class="timeline-panel">
+      <div class="timeline-panel" id="college">
         <div class="timeline-heading" style="background-color: #F5B041">
           <h4 class="timeline-title">Computer Engineering
             <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '13 - Present</small></p>
@@ -66,28 +66,23 @@ weight = 3
         </div>
       </div>
     </li>
-    <!-- <li>
-      <div class="timeline-badge info"><i class="glyphicon glyphicon-floppy-disk"></i></div>
-      <div class="timeline-panel">
-        <div class="timeline-heading">
-          <h4 class="timeline-title">Hadoop Projects</h4>
-        </div>
-        <div class="timeline-body">
-          <p>Hadoop projects.</p>
-          <hr>
-          <div class="btn-group">
-            <button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown">
-              <i class="glyphicon glyphicon-cog"></i> <span class="caret"></span>
-            </button>
-            <ul class="dropdown-menu" role="menu">
-              <li><a href="#">Action</a></li>
-              <li><a href="#">Another action</a></li>
-              <li><a href="#">Something else here</a></li>
-              <li class="divider"></li>
-              <li><a href="#">Separated link</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </li> -->
 </ul>
+
+<script>
+$(document).ready(function(){
+    $(window).scroll(function() {
+        if($( "#web_dev" ).isInViewport().length > 0){
+            $( "#web_dev" ).addClass( "animated fadeInLeft" );
+        }
+        if($( "#honor" ).isInViewport().length > 0){
+            $( "#honor" ).addClass( "animated fadeInRight" );
+        }
+        if($( "#leader" ).isInViewport().length > 0){
+            $( "#leader" ).addClass( "animated fadeInLeft" );
+        }
+        if($( "#college" ).isInViewport().length > 0){
+            $( "#college" ).addClass( "animated fadeInRight" );
+        }
+    });
+});
+</script>

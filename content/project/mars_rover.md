@@ -34,9 +34,52 @@ Mars Rover is an embedded system projects, that exposes students to embedded pro
 Every team is given 10 minutes to navigate their robot through the maze and find the destination, determined by the supervising TA. Teams get penalized for hitting one of the obstacles or going out of bounds, or falling into the trap. Going over the time limit is also subject to penalty.
 
 ### Responsibility
-My team included a group of 4 people; myself and one CprE major, one Com S major and one EE student. Having different major created some misunderstanding occasionally, but everything worked out at the end with hard work. Through:
+Tasks I performed included:
 
 * Calibration of iRobot's sensors, including Sonar sensor, IR sensor, Servo.
 * Serial Data transmission for sending commands and receiving data.
-* With curiosity and eager to learn, I took an extra step to implement the matlab GUI and communication logic between the robot and computer which served as very useful component during our program execution.
+* Implement GUI and communication between the robot and desktop in Matlab.
 * Plot and update the graph with the most recent data received from the iRobot.
+
+<div id="carousel-marsrover" class="carousel slide" data-ride="carousel">
+  <ol style="background-color:darkgrey" class="carousel-indicators">
+    <li data-target="#carousel-marsrover" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-marsrover" data-slide-to="1"></li>
+    <li data-target="#carousel-marsrover" data-slide-to="2"></li>
+    <li data-target="#carousel-marsrover" data-slide-to="3"></li>
+    <li data-target="#carousel-marsrover" data-slide-to="4"></li>
+  </ol>
+
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="/img/marsrover/home_view.png" class="img-responsive" alt="Home View">
+      <div class="carousel-caption">
+      <p style="color:grey">Object detection</p>
+      </div>
+    </div>
+    <div class="item">
+      <img src="/img/marsrover/course.jpg" class="img-responsive" alt="Maze">
+      <div class="carousel-caption">
+      <p>Maze to Navigate</p>
+      </div>
+    </div>
+    <div class="item">
+      <img src="/img/marsrover/destination.png" class="img-responsive" alt="Destination detection">
+      <div class="carousel-caption">
+      <p style="color:darkblue">Destination detection by sensors</p>
+      </div>
+    </div>
+    <div class="item">
+      <img src="/img/marsrover/commands.png" class="img-responsive" alt="Command Execution">
+      <div class="carousel-caption">
+      <p style="color:grey">Data collection</p>
+      </div>
+    </div>
+    <div class="item">
+      <img src="/img/marsrover/goal_reached.png" class="img-responsive" alt="Goal Reached!">
+      <div class="carousel-caption">
+        <p style="color:green">Goal Reached!</p>
+      </div>
+    </div>
+  </div>
+</div>

@@ -24,19 +24,51 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = "My caption :smile:"
+caption = ""
 
 +++
 
 Ticket Trading utilizes android and its features to provide, easy-to-use and convenient, ticket trading platform for its users. Core features include, list one or multiple tickets for sale, browse through available tickets in a list mode or see a detailed view of a specific listing, search for specific tickets with dedicated controls, and option to sort by price, date, and type. Additional features include facebook login, history of tickets listed, and integrated messaging to negotiate deals.
 
 ### Goal
-Considering the amount of time that was available, our team's primary goal was to deliver everything that we had proposed. Considering team's background in regards to the tools used in this project, I would say we accomplished our goal.
+Our team's primary goal was to deliver polished applications that includes features in out proposal. Considering team's background in regards to the tools used in this project, I would say we accomplished our goal.
 
 ### Responsibility
-Three, including me, out of four people in my team had never experienced Android development, thus it was the new experience for all of us. Our ultimate goal was to deliver a functional and user-friendly android app. With no prior android or web development experience, I took the responsibility of back-end development. I took advantage of Google's library, Volley, for transmission of data between client and server. php was used for data manipulation on server-side with MySQL database for storage. My contribution included following things:
+With no prior android or web development experience, I took the responsibility of back-end portion. I utilized Volley for transmission of data between client and server. PHP was used for data manipulation on server-side with MySQL database for storage. My contribution included following things:
 
-* Utilize Volley library to make a round trip, i.e. from generating client requests to parsing the received response.
-* Implement php scripts to handle client requests, access MySQL database to insert, update or query data, and send results back to client.
-* Manage database using MySQL workbench.
+* Utilized Volley library to allow client-server communications.
+* Implemented PHP scripts to handle client requests, access MySQL database to insert, update or query data, and send results back to client.
+* Design database schema for users and tickets.
 * Debug and solve conflicts that arise while merging code, using Git.
+
+<div id="carousel-ticket_sell" class="carousel slide" data-ride="carousel">
+  <ol style="background-color:darkgrey" class="carousel-indicators">
+    <li data-target="#carousel-ticket_sell" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-ticket_sell" data-slide-to="1"></li>
+    <li data-target="#carousel-ticket_sell" data-slide-to="2"></li>
+    <li data-target="#carousel-ticket_sell" data-slide-to="3"></li>
+  </ol>
+
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="/img/ticket_sell/gesture.png" class="img-responsive" alt="Responsive image">
+      <div class="carousel-caption">
+      </div>
+    </div>
+    <div class="item">
+      <img src="/img/ticket_sell/message.png" class="img-responsive" alt="Responsive image">
+      <div class="carousel-caption">
+      </div>
+    </div>
+    <div class="item">
+      <img src="/img/ticket_sell/home_view.png" class="img-responsive" alt="Responsive image">
+      <div class="carousel-caption">
+      </div>
+    </div>
+    <div class="item">
+      <img src="/img/ticket_sell/detail_view.png" class="img-responsive" alt="Responsive image">
+      <div class="carousel-caption">
+      </div>
+    </div>
+  </div>
+</div>

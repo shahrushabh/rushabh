@@ -20,8 +20,8 @@ weight = 1
 [interests]
   interests = [
   "Big Data Analytics",
-  "Artificial Intelligence",
-  "Medical technologies",
+  "IoT Applications",
+  "Medical Technologies",
   ]
  
 +++

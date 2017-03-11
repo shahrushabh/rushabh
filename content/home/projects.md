@@ -26,6 +26,10 @@ view = 1
   tag = "*"
   
 [[filter]]
+  name = "Hadoop"
+  tag = ".hadoop"
+
+[[filter]]
   name = "Android"
   tag = ".android"
 

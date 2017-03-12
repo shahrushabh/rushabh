@@ -15,9 +15,9 @@ weight = 2
 +++
 <ul class="timeline ">
     <li>
-      <div class="timeline-badge" style="background-color: #EC7063"><i class="fa fa-server" aria-hidden="true"></i></div>
+      <div class="timeline-badge" style="background-color: #C0A92B"><i class="fa fa-server" aria-hidden="true"></i></div>
       <div class="timeline-panel" id="web_dev">
-        <div class="timeline-heading" style="background-color: #EC7063">
+        <div class="timeline-heading" style="background-color: #C0A92B">
           <h4 class="timeline-title">Web developer
             <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Spring '16 - Present</small></p>
           </h4>
@@ -28,9 +28,9 @@ weight = 2
       </div>
     </li>
     <li class="timeline-inverted">
-      <div class="timeline-badge success"><i class="fa fa-trophy" aria-hidden="true"></i></div>
+      <div class="timeline-badge" style="background-color:#8DC02B"><i class="fa fa-trophy" aria-hidden="true"></i></div>
       <div class="timeline-panel" id="honor">
-        <div class="timeline-heading" style="background-color: #52BE80">
+        <div class="timeline-heading" style="background-color: #8DC02B">
           <h4 class="timeline-title">Deans List Honor
             <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '16</small></p>
           </h4>
@@ -41,9 +41,9 @@ weight = 2
       </div>
     </li>
     <li>
-      <div class="timeline-badge info"><i class="fa fa-user-o" aria-hidden="true"></i></div>
+      <div class="timeline-badge" style="background-color:#EB984E;"><i class="fa fa-user-o" aria-hidden="true"></i></div>
       <div class="timeline-panel"  id="leader">
-        <div class="timeline-heading">
+        <div class="timeline-heading" style="background-color:#EB984E">
           <h4 class="timeline-title">Project Leader
             <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '16 - Spring '17</small></p>
           </h4>
@@ -54,9 +54,9 @@ weight = 2
       </div>
     </li>
     <li class="timeline-inverted">
-        <div class="timeline-badge warning"><i class="fa fa-university" aria-hidden="true"></i></div>
+        <div class="timeline-badge" style="background-color:#4EEB98;"><i class="fa fa-university" aria-hidden="true"></i></div>
       <div class="timeline-panel" id="college">
-        <div class="timeline-heading" style="background-color: #F5B041">
+        <div class="timeline-heading" style="background-color: #4EEB98">
           <h4 class="timeline-title">Computer Engineering
             <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Fall '13 - Present</small></p>
           </h4>

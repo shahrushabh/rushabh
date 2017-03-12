@@ -1,5 +1,5 @@
 +++
-title = "Resume"
+title = ""
 date = "2017-01-01T00:00:00Z"
 math = false
 highlight = false
@@ -9,8 +9,13 @@ highlight = false
 image = ""
 caption = ""
 +++
+<br/>
 <button id="toggle" type="button" class="btn btn-default" style="float:right;">EXPAND ALL</button><br/>
-
+<style>
+.panel-info, .list-group-item-heading, .small{
+    color: #5D6D7E;
+}
+</style>
 <div class="panel panel-info">
   <div href="#summary" data-toggle="collapse" class="panel-heading">Summary</div>
   <div class="panel-body collapse" id="summary">
@@ -46,11 +51,11 @@ caption = ""
     <hr/>
     <div>
     <div class="col-md-4">
-        <strong>Languages</strong>
+        <strong>Programming</strong>
         <ul style="list-style-type:none; display:inline">
             <li> <i class="fa fa-cloud" aria-hidden="true"></i> LAMP Stack </li>
-            <li> <i class="fa fa-code" aria-hidden="true"></i> Python </li>
             <li> <i class="fa fa-object-group" aria-hidden="true"></i> Java, C# </li>
+            <li> <i class="fa fa-code" aria-hidden="true"></i> Python, JS </li>
             <li> <i class="fa fa-database" aria-hidden="true"></i> MySQL, Hadoop </li>
         </ul>
     </div>

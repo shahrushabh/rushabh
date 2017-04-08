@@ -26,8 +26,8 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Hadoop"
-  tag = ".hadoop"
+  name = "Bigdata"
+  tag = ".Bigdata"
 
 [[filter]]
   name = "Android"
@@ -39,3 +39,14 @@ view = 1
 
 +++
 
+<script>
+$(document).ready(function(){
+    $(window).scroll(function() {
+        $( ".project-item" ).each(function(){
+            if($(this).isInViewport().length > 0){
+                $( ".project-item" ).addClass( "animated zoomIn" );
+            }
+        });
+    });
+});
+</script>

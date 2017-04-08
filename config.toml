@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Rushabh Shah"
-  role = "Web Developer"
+  role = "Web Application Developer"
   organization = "Iowa State University"
   organization_url = ""
   avatar = "portrait.jpg"
@@ -145,13 +145,13 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
-  name = "Home"
+  name = "Bio"
   url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "Adventure"
-  url = "#adventure"
+  name = "Highlights"
+  url = "#highlights"
   weight = 2
   
 [[menu.main]]
@@ -160,8 +160,8 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Academics"
-  url = "#academics"
+  name = "Technicals"
+  url = "#skills"
   weight = 4
 
 [[menu.main]]

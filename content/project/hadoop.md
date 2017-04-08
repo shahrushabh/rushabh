@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Data Analysis"
+title = "Big Data Analysis"
 
 # Project summary to display on homepage.
 summary = "Data analysis using Hadoop"
@@ -13,7 +13,7 @@ image_preview = "hadoop/firewall_log.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["hadoop"]
+tags = ["Bigdata"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,7 +28,7 @@ caption = ""
 
 +++
 
-Data analysis using different software of hadoop eco system, including HDFS, MapReduce, Pig Scrips, and Spark. Each experiment listed below targets specific feature of the respective technologies. MapReduce programs take different formats of input files for analysis including simple text files, sequence files and json files. Each project name is linked to its source code.
+Data analysis using different tools of hadoop eco system, including HDFS, MapReduce, Pig Scrips, and Spark. Each experiment listed below targets specific tool of the eco system.
 
 ### Projects
 * MapReduce projects:
@@ -37,18 +37,12 @@ Data analysis using different software of hadoop eco system, including HDFS, Map
     - <a href="https://github.com/shahrushabh/Hadoop/tree/master/MapReduce/SortData" target="_blank">Total Order Sort</a>
     - <a href="https://github.com/shahrushabh/Hadoop/tree/master/MapReduce/TweetAnalysis" target="_blank">Tweet Analysis</a>
 * Pig projects:
-    - <a href="https://github.com/shahrushabh/Hadoop/tree/master/PigScripts" target="_blank">Firewall Log</a>
+    - <a href="https://github.com/shahrushabh/Hadoop/tree/master/PigScripts" target="_blank">Firewall</a>
+* Spark projects:
+    - <a href="https://github.com/shahrushabh/Hadoop/tree/master/Spark" target="_blank">Directed Cycles</a>
+    - <a href="https://github.com/shahrushabh/Hadoop/tree/master/Spark" target="_blank">Firewall</a>
 
 <div id="carousel-hadoop" class="carousel slide" data-ride="carousel">
-  <ol style="background-color:darkgrey" class="carousel-indicators">
-    <li data-target="#carousel-hadoop" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-hadoop" data-slide-to="1"></li>
-    <li data-target="#carousel-hadoop" data-slide-to="2"></li>
-    <li data-target="#carousel-hadoop" data-slide-to="3"></li>
-    <li data-target="#carousel-hadoop" data-slide-to="4"></li>
-    <li data-target="#carousel-hadoop" data-slide-to="5"></li>
-  </ol>
-
   <div class="carousel-inner" role="listbox">
     <div class="item active">
       <img src="/img/hadoop/firewall_log.png" class="img-responsive" alt="Responsive image">

@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Resume"
 date = "2017-01-01T00:00:00Z"
 math = false
 highlight = false
@@ -12,19 +12,20 @@ caption = ""
 <br/>
 <button id="toggle" type="button" class="btn btn-default" style="float:right;">EXPAND ALL</button><br/>
 <style>
-.panel-info, .list-group-item-heading, .small{
+.panel-primary, .list-group-item-heading, .small{
     color: #5D6D7E;
 }
 </style>
-<div class="panel panel-info">
-  <div href="#summary" data-toggle="collapse" class="panel-heading">Summary</div>
+<div id="resume">
+<div class="panel panel-primary">
+  <div href="#summary" data-toggle="collapse" style="background-color: #37838F" class="panel-heading">Summary</div>
   <div class="panel-body collapse" id="summary">
   <p class="left-space">Experienced Web Developer with a demonstrated history of working in the higher education industry. Skilled in LAMP Stack, Python, and Java. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Iowa State University. </p>
   </div>
 </div>
 
-<div class="panel panel-info">
-  <div href="#professional_experience" data-toggle="collapse" class="panel-heading">Experience</div>
+<div class="panel panel-primary">
+  <div href="#professional_experience" data-toggle="collapse" style="background-color: #37838F" class="panel-heading">Experience</div>
   <div class="panel-body collapse" id="professional_experience">
       <h4 class="list-group-item-heading"> Web Application Developer <span class="small">@</span><a href="http://admissions.iastate.edu" target="_blank" class="small">Office of Admissions</a>, <a href="http://iastate.edu" target="_blank" class="small">Iowa State University</a> 
       </h4>
@@ -42,8 +43,8 @@ caption = ""
   </div>
 </div>
 
-<div class="panel panel-info">
-  <div href="#education_and_skills" data-toggle="collapse" class="panel-heading">Education and Skills</div>
+<div class="panel panel-primary">
+  <div href="#education_and_skills" data-toggle="collapse" style="background-color: #37838F" class="panel-heading">Education and Skills</div>
   <div class="panel-body collapse" id="education_and_skills">
     <div style="padding-left:15px">
         <i class="fa fa-university" aria-hidden="true"></i> Bachelor of Science in Computer Engineering, <a href="http://ece.iastate.edu" target="_blank" class="small text-muted">Iowa State University</a>
@@ -79,8 +80,8 @@ caption = ""
   </div>
 </div>
 
-<div class="panel panel-info">
-    <div href="#projects" data-toggle="collapse" class="panel-heading">Projects</div>
+<div class="panel panel-primary">
+    <div href="#projects" data-toggle="collapse" style="background-color: #37838F" class="panel-heading">Projects</div>
     <div class="panel-body collapse" id="projects">
     <h4 class="list-group-item-heading"> Quick Quote Program <span class="small text-muted">@Van Gorp Corporation</span></h4> 
     <p class=list-group-item-text>
@@ -124,9 +125,11 @@ caption = ""
     </p>
     </div>
 </div>
+</div>
 
 <script>
     $(function(){
+        $('a[href="/resume"]').parent().addClass("active");
         $('#summary').collapse('show');
         $('#toggle').click(function(){
             if($('#toggle').html() == 'COLLAPSE ALL'){

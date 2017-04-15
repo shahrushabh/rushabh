@@ -21,21 +21,21 @@ view = 1
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
-  name = "All"
-  tag = "*"
-  
-[[filter]]
-  name = "Bigdata"
-  tag = ".Bigdata"
-
-[[filter]]
-  name = "Android"
-  tag = ".android"
-
-[[filter]]
-  name = "Embedded Systems"
-  tag = ".embedded_systems"
+# [[filter]]
+#  name = "All"
+#  tag = "*"
+#  
+#[[filter]]
+#  name = "Bigdata"
+#  tag = ".Bigdata"
+#
+#[[filter]]
+#  name = "Android"
+#  tag = ".android"
+#
+#[[filter]]
+#  name = "Embedded Systems"
+#  tag = ".embedded_systems"
 
 +++
 
@@ -44,7 +44,7 @@ $(document).ready(function(){
     $(window).scroll(function() {
         $( ".project-item" ).each(function(){
             if($(this).isInViewport().length > 0){
-                $( ".project-item" ).addClass( "animated zoomIn" );
+                $( ".project-item" ).addClass( "animated pulse" );
             }
         });
     });

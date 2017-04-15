@@ -3,6 +3,7 @@ title = "Resume"
 date = "2017-01-01T00:00:00Z"
 math = false
 highlight = false
+widget = "custom"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -10,7 +11,7 @@ image = ""
 caption = ""
 +++
 <br/>
-<button id="toggle" type="button" class="btn btn-default" style="float:right;">EXPAND ALL</button><br/>
+<button id="toggle" type="button" class="btn" style="float:right;background:transparent;border-color:#074a6a;color:#074a6a;">EXPAND ALL</button><br/>
 <style>
 .panel-primary, .list-group-item-heading, .small{
     color: #5D6D7E;
@@ -34,7 +35,7 @@ caption = ""
           <li> Develop web applications on LAMP stack in an agile environment. </li>
           <li> Implement PHP scrips that preforms batch jobs for data synchronization between IT department and admissions system. </li>
           <li> Implement real time portal systems, utilized by all colleges and departments on campus. </li>
-          <li> Implement authentication system for career exploration - <a href="http://planyouradventure.net" target="_blank" class="text-muted">My Academic Plan</a>. </li>
+          <li> Implement authentication system for career exploration site - <a href="http://planyouradventure.net" target="_blank" class="text-muted">My Academic Plan</a> used by hundreds of middle schools and high schools. </li>
           <li> Alter MySQL databases for storage efficiency. </li>
           <li> Enhance existing software with modification or replacement. </li>
           <li> Conduct thorough testing of solutions implemented and occasionally present implementation to client. </li>

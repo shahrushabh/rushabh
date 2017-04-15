@@ -28,13 +28,15 @@ weight = 1
 
 <div id="biography">
     <h1>Biography</h1>
-    I am a Computer Engineering student at Iowa State University graduating in Spring of 2017. I have had experience in back-end web development with a demonstrated history of working in the higher education industry. Skilled in LAMP stack, Git, Github, and other various software development technologies. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Iowa State University.
+    <p>
+        I am a Computer Engineering student at Iowa State University graduating in Spring of 2017. Experienced in back-end web development in LAMP environment with a demonstrated history of working in the higher education industry. Comfortable with all parts of software life cycle including architecture design, implementation and support. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Iowa State University.
+    </p>
 </div>
 
 <script>
 $(document).ready(function(){
     if($( "#biography" ).isInViewport().length > 0){
-        $( "#biography" ).addClass( "animated fadeInDown" );
+        $( "#biography" ).addClass( "animated fadeInUp" );
     }
     if($( "#interests" ).isInViewport().length > 0){
         $( "#interests" ).addClass( "animated fadeInUp" );

@@ -99,11 +99,6 @@ defaultContentLanguageInSubdir = false
 
   
   [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/rushabhsbit"
-
-  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/shahrushabh"
@@ -112,6 +107,11 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:rvshah@iastate.edu"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/rushabhsbit"
 
 
 # Navigation Links
@@ -135,14 +135,9 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Technicals"
-  url = "#skills"
-  weight = 4
-
-[[menu.main]]
   name = "Resume"
   url = "/experience"
-  weight = 5
+  weight = 4
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.

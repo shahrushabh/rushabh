@@ -35,8 +35,6 @@ Budgeter is a simple finance application aimed at reducing complexity of persona
 
 ### Responsibility
 
-* 
-
 <a href="http://rtrack-141420.appspot.com/" target="_blank">Simple Budgeter</a>
 
 <div id="carousel-budgeter" class="carousel slide" data-ride="carousel">

@@ -28,14 +28,18 @@ caption = ""
 
 +++
 
-Budgeter is a simple finance application aimed at reducing complexity of personal finance management. It is a convenient and fully functional, cloud based application developed by team of ISU students.
+Budgeter is a simple finance application aimed at reducing complexity of personal finance management. It is a convenient and fully functional, cloud based application developed by team of four ISU students.
+It allows user to record their budget and everyday expenses. It simply then tracks their performance overtime and provide an overview of their performance. 
 
-### Goal
+### Personalized and unique
+Some of the advantages of this software include:
 
-
-### Responsibility
-
-<a href="http://rtrack-141420.appspot.com/" target="_blank">Simple Budgeter</a>
+* Web application that is easily accessible
+* Utilizes an open source Optical Character Recognition API
+* Provides simple and intuitive interface to work with
+* Allows customized groups and categories and remembers it going forward
+* Cloud based solution that can be scaled if needed
+* Take it for a <a href="http://rtrack-141420.appspot.com/" target="_blank">Test Drive</a>
 
 <div id="carousel-budgeter" class="carousel slide" data-ride="carousel">
   <ol style="background-color:darkgrey" class="carousel-indicators">

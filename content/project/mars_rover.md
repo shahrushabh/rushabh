@@ -30,10 +30,7 @@ caption = "My caption :smile:"
 
 Mars Rover is an embedded system projects, that exposes students to embedded programming. Making use of C programming language along with the VORTEX platform, "that includes iRobot Create, the Cerebot II board, and attachments such as servo, SONAR, IR sensor, and LCD" panel. Teams, group of 3-4, are asked to calibrate sensors and program the robot for different tasks, one at a time. For example, Moving and turning the robot accurately, receiving and sending messages using serial communication, calibration of various sensors, and so on. The final project demonstration depends on the accuracy with which data is being fetched and analyzed. Demo required students to navigate the robot to the destination, without looking at the course, by analysis of data, in real time, received from the robot's sensors.
 
-### Goal
-Every team is given 10 minutes to navigate their robot through the maze and find the destination, determined by the supervising TA. Teams get penalized for hitting one of the obstacles or going out of bounds, or falling into the trap. Going over the time limit is also subject to penalty.
-
-### Responsibility
+### Design and Implementation
 Tasks I performed included:
 
 * Calibration of iRobot's sensors, including Sonar sensor, IR sensor, Servo.

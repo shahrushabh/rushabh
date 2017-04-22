@@ -20,8 +20,8 @@ weight = 1
 [interests]
   interests = [
   "Big Data",
-  "Web Apps",
-  "Cloud Technologies",
+  "Cloud Computing",
+  "Mobile and IoT Applications",
   ]
  
 +++

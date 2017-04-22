@@ -1,5 +1,5 @@
 +++
-title = "Resume"
+title = ""
 date = "2017-01-01T00:00:00Z"
 math = false
 highlight = false
@@ -21,14 +21,14 @@ caption = ""
 <div class="panel panel-primary">
   <div href="#summary" data-toggle="collapse" style="background-color: #37838F" class="panel-heading">Summary</div>
   <div class="panel-body collapse" id="summary">
-  <p class="left-space">Experienced Web Developer with a demonstrated history of working in the higher education industry. Skilled in LAMP Stack, Python, and Java. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Iowa State University. </p>
+  <p class="left-space">Experienced Software Developer with a demonstrated history of working in the higher education industry. Skilled in web technologies (LAMP Stack, Java, and Python), Big data processing (Hadoop Eco System) and exposed to embedded programming. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Iowa State University. </p>
   </div>
 </div>
 
 <div class="panel panel-primary">
   <div href="#professional_experience" data-toggle="collapse" style="background-color: #37838F" class="panel-heading">Experience</div>
   <div class="panel-body collapse" id="professional_experience">
-      <h4 class="list-group-item-heading"> Web Application Developer <span class="small">@</span><a href="http://admissions.iastate.edu" target="_blank" class="small">Office of Admissions</a>, <a href="http://iastate.edu" target="_blank" class="small">Iowa State University</a> 
+      <h4 class="list-group-item-heading"> Web Software Developer <span class="small">@</span><a href="http://admissions.iastate.edu" target="_blank" class="small">Office of Admissions</a>, <a href="http://iastate.edu" target="_blank" class="small">Iowa State University</a> 
       </h4>
       <p class="list-group-item-text">
       <ul style="list-style-type:circle;">

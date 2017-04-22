@@ -23,12 +23,12 @@ weight = 2
       <div class="timeline-badge" style="background-color: #F29F05"><i class="fa fa-server" aria-hidden="true"></i></div>
       <div class="timeline-panel">
         <div class="timeline-heading" style="background-color: #F29F05">
-          <h4 class="timeline-title">Web developer
+          <h4 class="timeline-title">Web Software Developer
             <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Spring '16 - Present</small></p>
           </h4>
         </div>
         <div class="timeline-body">
-          <p>Web application developer at Iowa State University</p>
+          <p>Develop web software at Iowa State University</p>
         </div>
       </div>
     </li>

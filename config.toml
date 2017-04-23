@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Rushabh Shah"
-  role = "Web Software Developer"
+  role = "Backend Developer"
   organization = "Iowa State University"
   organization_url = ""
   avatar = "portrait.jpg"

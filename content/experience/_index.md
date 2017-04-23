@@ -28,7 +28,7 @@ caption = ""
 <div class="panel panel-primary">
   <div href="#professional_experience" data-toggle="collapse" style="background-color: #37838F" class="panel-heading">Experience</div>
   <div class="panel-body collapse" id="professional_experience">
-      <h4 class="list-group-item-heading"> Web Software Developer <span class="small">@</span><a href="http://admissions.iastate.edu" target="_blank" class="small">Office of Admissions</a>, <a href="http://iastate.edu" target="_blank" class="small">Iowa State University</a> 
+      <h4 class="list-group-item-heading"> Backend Developer <span class="small">@</span><a href="http://admissions.iastate.edu" target="_blank" class="small">Office of Admissions</a>, <a href="http://iastate.edu" target="_blank" class="small">Iowa State University</a> 
       </h4>
       <p class="list-group-item-text">
       <ul style="list-style-type:circle;">

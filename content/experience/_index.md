@@ -40,13 +40,13 @@ caption = ""
       </h4>
       <p class="list-group-item-text">
       <ul style="list-style-type:circle;">
-          <li> Develop web applications on LAMP stack in an agile environment. </li>
-          <li> Implement PHP scripts that performs batch jobs for data synchronization between IT department and admissions system. </li>
-          <li> Implement near real-time portal systems, used by all colleges and departments on campus. </li>
-          <li> Implement authentication system for career exploration site - <a href="http://planyouradventure.net" target="_blank" class="text-muted">My Academic Plan</a> used by hundreds of middle schools and high schools. </li>
-          <li> Alter MySQL databases for storage efficiency. </li>
-          <li> Enhance existing software with modification or replacement. </li>
-          <li> Conduct thorough testing of solutions implemented and occasionally present implementation to client. </li>
+          <li> Developed web applications on LAMP stack in an agile environment. </li>
+          <li> Implemented PHP scripts that performs batch jobs for data synchronization between IT department and admissions system. </li>
+          <li> Implemented near real-time portal systems, used by all colleges and departments on campus. </li>
+          <li> Implemented authentication system for career exploration site - <a href="http://planyouradventure.net" target="_blank" class="text-muted">My Academic Plan</a> used by hundreds of middle schools and high schools. </li>
+          <li> Modified MySQL database structure for storage efficiency. </li>
+          <li> Implemented reporting tools for internal data and student surveys. </li>
+          <li> Conducted thorough testing of solutions implemented and occasionally present implementation to client. </li>
       </ul>
       </p>
   </div>

@@ -31,22 +31,12 @@ caption = "My caption :smile:"
 Mars Rover is an embedded system projects, that exposes students to embedded programming. Making use of C programming language along with the VORTEX platform, "that includes iRobot Create, the Cerebot II board, and attachments such as servo, SONAR, IR sensor, and LCD" panel. Teams, group of 3-4, are asked to calibrate sensors and program the robot for different tasks, one at a time. For example, Moving and turning the robot accurately, receiving and sending messages using serial communication, calibration of various sensors, and so on. The final project demonstration depends on the accuracy with which data is being fetched and analyzed. Demo required students to navigate the robot to the destination, without looking at the course, by analysis of data, in real time, received from the robot's sensors.
 
 ### Design and Implementation
-Tasks I performed included:
-
 * Calibration of iRobot's sensors, including Sonar sensor, IR sensor, Servo.
 * Serial Data transmission for sending commands and receiving data.
 * Implement GUI and communication between the robot and desktop in Matlab.
 * Plot and update the graph with the most recent data received from the iRobot.
 
 <div id="carousel-marsrover" class="carousel slide" data-ride="carousel">
-  <ol style="background-color:darkgrey" class="carousel-indicators">
-    <li data-target="#carousel-marsrover" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-marsrover" data-slide-to="1"></li>
-    <li data-target="#carousel-marsrover" data-slide-to="2"></li>
-    <li data-target="#carousel-marsrover" data-slide-to="3"></li>
-    <li data-target="#carousel-marsrover" data-slide-to="4"></li>
-  </ol>
-
   <div class="carousel-inner" role="listbox">
     <div class="item active">
       <img src="/img/marsrover/home_view.png" class="img-responsive" alt="Home View">

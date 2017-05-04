@@ -82,7 +82,7 @@ caption = ""
         <ul style="list-style-type:none; display:inline">
             <li> <i class="fa fa-linux" aria-hidden="true"></i> Linux </li>
             <li> <i class="fa fa-android" aria-hidden="true"></i> Android </li>
-            <li> <i class="fa fa-microchip" aria-hidden="true"></i> GAE </li>
+            <li> <i class="fa fa-cloud" aria-hidden="true"></i> GAE </li>
         </ul>
     </div>
     </div>

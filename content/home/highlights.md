@@ -41,7 +41,7 @@ weight = 2
           </h4>
         </div>
         <div class="timeline-body">
-          <p>Complete Bachelor of Science from Iowa State University</p>
+          <p>Bachelor of Science from Iowa State University</p>
         </div>
       </div>
     </li>

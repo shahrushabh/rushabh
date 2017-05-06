@@ -16,6 +16,36 @@ caption = ""
         text-transform: uppercase;
         margin-top: 100px;
     }
+    .mysql-lang{
+        color: #8f5e99;
+        border: 1.5px solid;
+        border-color: #8f5e99;
+        border-radius: 8px;
+    }
+    .php-lang{
+        color: #9191ff;
+        border: 1.5px solid;
+        border-color: #9191ff;
+        border-radius: 8px;
+    }
+    .linux-lang{
+        color: #6b3333;
+        border: 1.5px solid;
+        border-color: #6b3333;
+        border-radius: 8px;
+    }
+    .hadoop-lang{
+        color: #ffdf00;
+        border: 1.5px solid;
+        border-color: #ffdf00;
+        border-radius: 8px;
+    }
+    .spark-lang{
+        color: #ff541b;
+        border: 1.5px solid;
+        border-color: #ff541b;
+        border-radius: 8px;
+    }
 </style>
 <br/>
 <button id="toggle" type="button" class="btn" style="float:right;background:transparent;border-color:#074a6a;color:#074a6a;">EXPAND ALL</button><br/>
@@ -38,6 +68,9 @@ caption = ""
       <h4 class="list-group-item-heading"> Backend Developer <span class="small">@</span><a href="http://admissions.iastate.edu" target="_blank" class="small">Office of Admissions</a>, <a href="http://iastate.edu" target="_blank" class="small">Iowa State University</a> 
       <small><i style="float:right">May '16 - May '17</i></small>
       </h4>
+      <span class="label linux-lang">Linux</span>
+      <span class="label php-lang">PHP</span>
+      <span class="label mysql-lang">MySQL</span>
       <p class="list-group-item-text">
       <ul style="list-style-type:circle;">
           <li> Developed web applications on LAMP stack in an agile environment. </li>
@@ -93,9 +126,10 @@ caption = ""
     <div href="#projects" data-toggle="collapse" style="background-color: #37838F" class="panel-heading">Projects</div>
     <div class="panel-body collapse" id="projects">
     <h4 class="list-group-item-heading"> Twitter Data Analysis <span class="small text-muted">@ <a href="https://github.com/shahrushabh/Hadoop" target="_blank" class="text-muted">Hadoop Programs</a></span> </h4>
+    <span class="label hadoop-lang">Hadoop</span>
+    <span class="label spark-lang">Spark</span>
     <p class=list-group-item-text>
     <ul style="list-style-type:circle;">
-        <li> Tools utilized: Hadoop, HDFS, MapReduce  </li>
         <li> Implemented custom JSON input format to convert tweets into JSON format  </li>
         <li> Implemented MapReduce Jobs to extract relevant information </li>
         <li> Analyze specific attributes of using MapReduce, such as Popular HashTags, Most followed users </li>

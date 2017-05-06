@@ -9,7 +9,7 @@ title = "i-attend"
 summary = "Location based attendance"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "i-attend/coursecreation.png"
 
 # Tags: can be used for filtering projects.
 tags = ["GAE", "Android"]

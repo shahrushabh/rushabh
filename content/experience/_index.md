@@ -118,7 +118,7 @@ caption = ""
 <div class="panel panel-primary">
   <div href="#summary" data-toggle="collapse" style="background-color: #37838F" class="panel-heading">Summary</div>
   <div class="panel-body collapse" id="summary">
-  <p class="left-space">Experienced Software Developer with a demonstrated history of working in the higher education industry. Skilled in web technologies (LAMP Stack, Java, and Python), Big data processing (Hadoop Eco System) and exposed to embedded programming. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Iowa State University. </p>
+  <p class="left-space">Experienced Software Developer with a demonstrated history of working in the higher education industry. Skilled in web technologies <strong>(LAMP Stack, Java, and Python)</strong>, Big data processing <strong>(Hadoop Eco System)</strong> and exposed to embedded programming. Strong engineering professional with a Bachelor’s Degree focused in Computer Engineering from Iowa State University. </p>
   </div>
 </div>
 

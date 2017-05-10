@@ -39,7 +39,7 @@ Some of the advantages of this software include:
 * Provides simple and intuitive interface to work with
 * Allows customized groups and categories and remembers it going forward
 * Cloud based solution that can be scaled if needed
-* Take it for a <a href="http://rtrack-141420.appspot.com/" target="_blank">Test Drive</a>
+* <a href="http://rtrack-141420.appspot.com/" target="_blank">Try it yourself!</a>
 
 <div id="carousel-budgeter" class="carousel slide" data-ride="carousel">
   <ol style="background-color:darkgrey" class="carousel-indicators">

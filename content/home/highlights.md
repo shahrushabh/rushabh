@@ -24,11 +24,11 @@ weight = 2
       <div class="timeline-panel">
         <div class="timeline-heading" style="background-color: #F29F05">
           <h4 class="timeline-title">Backend Developer
-            <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Spring '16 - Present</small></p>
+            <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>&nbsp;Spring '16 - Spring '17</small></p>
           </h4>
         </div>
         <div class="timeline-body">
-          <p>Develop web software at Iowa State University</p>
+          <p>Develop web applications at Iowa State University</p>
         </div>
       </div>
     </li>
